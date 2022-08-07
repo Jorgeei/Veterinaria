@@ -8,7 +8,7 @@ body{
 }
 
 #Titulo{
-    background-color: rgb(195, 200, 202);
+    background-color: #dcedab;
     border-radius: 10px;
     padding-top: 10px;
     text-align: center;
@@ -43,7 +43,7 @@ h3{
 }
 
 #barraMenu{
-    background-color: rgb(28, 74, 72);
+    background-color: #20daac;
     border-radius: 0 0 10px 10px;
 }
 
@@ -60,7 +60,7 @@ h3{
 
 
 #contenido{
-    background-color: rgb(240, 227, 171);
+    background-color: #1dc0be;
     border-radius: 15px;
     padding-top: 10px;
     width: 518;
@@ -90,14 +90,14 @@ hr.new5{
 
 #formulario{
     border-radius: 15px;
-    background: rgb(73, 110, 109);
+    background: #1f96d7;
     padding: 10px;
     margin-left: 1.7em;
 }
 
 #formTitulo{
     margin: 0 0 0 10px;
-    background: rgb(25, 43, 42);
+    background: rgb(245, 245, 245);
     border-radius: 10px;
     text-align: center;
     padding: 10px;
@@ -109,7 +109,7 @@ hr.new5{
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 10px;
-    color: aliceblue;
+    color: rgb(3, 4, 5);
 }
 
 #formulario label{
@@ -132,7 +132,6 @@ hr.new5{
 #formulario button{
     clear: both;
     margin: 0 auto;
-
     display: flex;
     height: 31px;
     background: #a5a2a2;
@@ -149,7 +148,7 @@ hr.new5{
 }
 
 #piedepagina{
-    background-color: rgb(28, 74, 72);
+    background-color: #20daac;
     border-radius: 0 0 10px 10px;
 }
 
