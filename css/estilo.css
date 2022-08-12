@@ -3,7 +3,7 @@ body{
 }
 
 #contenedorGeneral{
-    max-width: 920px;
+    max-width: 900px;
     padding-top: 10px;
 }
 
@@ -57,23 +57,16 @@ h3{
     cursor: pointer;
 }
 
-
-
 #contenido{
     background-color: #1dc0be;
     border-radius: 15px;
     padding-top: 10px;
-    width: 518;
+    width: 518px;
 }
 
 #Seccion{
-    margin: 01.7em auto;
+    margin: 0.7em auto;
     padding: 0;
-}
-
-#Seccion{
-    max-width: 880px;
-    padding-top: 10px;
 }
 
 hr.new5{
@@ -142,22 +135,25 @@ hr.new5{
     font-weight: bold;
 }
 
-#piedepagina p{
-    color: aliceblue;
-    text-align: center;
-}
-
 #piedepagina{
+    margin: 0.1em auto;
+    padding-top: 10px;
     background-color: #20daac;
     border-radius: 0 0 10px 10px;
 }
 
 #piedepagina{
-    max-width: 920px;
-    padding-top: 10px;
+    color: aliceblue;
+    text-align: center;
 }
 
-#piedepagina{
-    margin: 0 auto;
+.toggle{
+    color: white;
+    background: none;
+    border: none;
+    font-size: 30px;
+    padding: 0 20px;
+    line-height: 60px;
+    display: none;
 }
 
